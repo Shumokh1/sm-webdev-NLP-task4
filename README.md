@@ -11,6 +11,8 @@ This repository contains a web application that allows users to convert spoken w
 
 ## Demo
 
+https://github.com/Shumokh1/sm-webdev-NLP-task4/assets/151425117/b5327ab6-b228-4c13-8f78-e819ded1c072
+
 ## Database Setup
 
 1. Create the `robot2` database:
