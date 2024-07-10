@@ -9,6 +9,8 @@ This repository contains a web application that allows users to convert spoken w
 - Real-time speech-to-text conversion.
 - Saves transcriptions to a MySQL database.
 
+## Demo
+
 ## Database Setup
 
 1. Create the `robot2` database:
